@@ -1,3 +1,6 @@
+![Portada del proyecto](https://github.com/Aldosilva96/mapa-interno-proyecto/blob/main/portada-intrasue%C3%B1o.jpg?raw=true)
+
+
 # Intrasueño – Bitácora Emocional Interactiva 🧠📓
 
 **Proyecto de autoconocimiento emocional a través del registro simbólico de sueños y patrones inconscientes.**  
